@@ -5,10 +5,15 @@ Idea is to provide a tool to detect the emergency vehicles in the nearby path.
 
 # IMPORTANT LIBRARIES
 **1.pandas**
+
 **2.Numpy**
+
 **3.Tensorflow**
+
 **4.matplotlib**
-**5.librora**
+
+**5.librosa**
+
 **6.sci-kit learn**
 
 # ROADMAP

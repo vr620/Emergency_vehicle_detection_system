@@ -1,7 +1,8 @@
 # EMERGENCY_VEHICLE_DETECTION_SYSTEM
 
 # ABOUT
-Idea is to provide a tool to detect the emergency vehicles in the nearby path.
+
+**This repository contains  implementation of real world problem of Emergency Vehicle Siren Detection .Underlying idea is to process the audio signal of  siren to extract its various features and train the model using best suited Machine Learning algorithm in order to achieve end result of maximum accuracy. Numerous other  techniques were used before applying KNN ,ANN for a conclusive evidence to attain 98% accuracy.**
 
 # IMPORTANT LIBRARIES
 **1.pandas**
@@ -70,3 +71,4 @@ Idea is to provide a tool to detect the emergency vehicles in the nearby path.
 
 2.[KNN model](https://github.com/vr620/Emergency_vehicle_detection_system/blob/master/KNN_way.ipynb)
 
+**It was observed that in general emergency signals having lot of spurious noise mixed along with them were consistently misclassified by the ANN. Also, in many cases the ANN failed to learn the features of emergency signals that were unique which led to misclassification. A possible solution to this issue would be to use more training data with samples that are unique. Another solution would be to use a wider variety of features to get that could be helpful in distinguishing between emergency and non-emergency signals.**

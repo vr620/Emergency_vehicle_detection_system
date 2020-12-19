@@ -2,7 +2,7 @@
 
 # ABOUT
 
-**This repository contains  implementation of real world problem of Emergency Vehicle Siren Detection .Underlying idea is to process the audio signal of  siren to extract its various features and train the model using best suited Machine Learning algorithm in order to achieve end result of maximum accuracy. Numerous other  techniques were used before applying KNN ,ANN for a conclusive evidence to attain 98% accuracy.**
+**This repository contains  implementation of real world problem of Emergency Vehicle Siren Detection .Underlying idea is to process the audio signal of  siren to extract its various features and train the model using best suited Machine Learning algorithm in order to achieve end result of maximum accuracy. Numerous other  techniques were used before applying KNN ,ANN for a conclusive evidence to attain good accuracy.**
 
 # IMPORTANT LIBRARIES
 **1.pandas**
